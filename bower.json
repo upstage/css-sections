@@ -1,8 +1,3 @@
 {
-  "name": "bands",
-  "dependencies": {
-    "grunt-contrib-jshint": "~0.6.0",
-    "assemble": "~0.4.0",
-    "grunt": "~0.4.1"
-  }
+  "name": "css-sections"
 }
