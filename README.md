@@ -1,6 +1,8 @@
-# CSS "sections"
+# [CSS sections](http://upstage.github.io/css-sections/)
 
 > CSS component for adding varied sections of content to a web page. From the [Upstage component library][components].
+
+### [See examples →](http://upstage.github.io/css-sections/)
 
 To learn more about Upstage and contributing to existing projects or new components, visit [upstage/components][components].
 
