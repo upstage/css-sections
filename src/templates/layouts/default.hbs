@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{title}} | Upstage Component</title>
+    <link rel="stylesheet" href="{{assets}}/assemble.css">
+    <link rel="stylesheet" href="{{assets}}/sections.css">
+    <link rel="stylesheet" href="{{assets}}/github.css">
+    <link rel="stylesheet" href="{{assets}}/docs.css">
+  </head>
+  <body>
+
+    {{! Navbar
+    ================================================== }}
+    {{> navbar-fixed-top }}
+
+
+    {{! Subhead
+    ================================================== }}
+    <div class="masthead subhead">
+      <div class="container">
+        <div class="row">
+          <div class="col col-lg-12">
+            <h1> {{ title }} </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{! Page content
+    ================================================== }}
+    {{> body }}
+
+    <script src="{{assets}}/highlight.js"></script>
+    <script src="{{assets}}/holder.js"></script>
+  </body>
+</html>
