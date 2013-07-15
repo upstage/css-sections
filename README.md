@@ -8,7 +8,7 @@ To learn more about Upstage and contributing to existing projects or new compone
 
 ## Example
 
-![image](https://f.cloud.github.com/assets/383994/796306/b8a4038a-ed20-11e2-8b0d-d5f783b19c5c.png)
+![image](https://f.cloud.github.com/assets/383994/796326/78484d36-ed21-11e2-8a6a-6a169af6d900.png)
 
 
 ## Contributing
