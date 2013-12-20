@@ -15,7 +15,7 @@ To learn more about Upstage and contributing to existing projects or new compone
 
 ## Related Components
 
-* [css-buttons](https://github.come/upstage/css-buttons/)
+* [css-buttons](https://github.com/upstage/css-buttons/)
 
 
 ## Contributing
